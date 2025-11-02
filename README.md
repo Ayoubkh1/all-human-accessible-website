@@ -12,7 +12,7 @@ De instructie van deze leertaak staat in [INSTRUCTIONS](https://github.com/fdnd-
   * [Licentie](#licentie)
 
 ## Beschrijving
-Op deze website is een digitale “Ideeën Bibliotheek” te zien. De pagina bevat artikelen over slimme stadstechnologieën en hun toepassing in de openbare ruimte, zoals kunstmatige intelligentie en computervisiesystemen. Bezoekers krijgen via een overzichtelijke navigatie bovenaan toegang tot de Case Studies en Ideeën. Bij het scrollen door de pagina zien gebruikers artikelen met afbeeldingen en titels.
+Op deze website is een digitale Ideeën Bibliotheek te zien. De pagina bevat artikelen over slimme stadstechnologieën en hun toepassing in de openbare ruimte, zoals kunstmatige intelligentie en computervisiesystemen. Bezoekers krijgen via een overzichtelijke navigatie bovenaan toegang tot de Case Studies en Ideeën. Bij het scrollen door de pagina zien gebruikers artikelen met afbeeldingen en titels.
 De website helpt professionals, ambtenaren, ontwerpers en burgers om inzichten te krijgen in manieren waarop slimme stadstechnologieën op een ethische en verantwoorde manier kunnen worden toegepast.
  <img width="1800" height="760" alt="all-devices-black" src="https://github.com/user-attachments/assets/cf27c211-36af-4a23-b4ef-495551580d38" />
  Link naar mijn website:
