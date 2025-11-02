@@ -35,7 +35,7 @@ header {
 
 nav {
   display: flex;
-  gap: 1.5em;
+  gap: 1.5em; 
   font-weight: 600;
 }
 
@@ -54,22 +54,32 @@ nav button:hover {
   color: #1f2937;
 }
 
-/* Section titel en inleiding */
+/* Section grid */
+section {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2em;
+  padding: 0 2em 3em;
+  width: 100%;
+  max-width: 1200px;
+  margin-top: 2em;
+}
+
+/* Titel en inleiding altijd boven grid */
 section > h1,
 section > .intro {
-  grid-column: 1 / -1; /* Volledige breedte van de grid */
+  grid-column: 1 / -1; /* neemt volledige breedte van de grid */
+  text-align: center;
 }
 
 section > h1 {
-  text-align: center;
   font-size: 2.5rem;
-  color: #111827;
   margin-top: 2em;
   margin-bottom: 0.5em;
+  color: #111827;
 }
 
 section > .intro {
-  text-align: center;
   max-width: 800px;
   margin: 0 auto 3em;
   font-size: 1rem;
@@ -78,15 +88,6 @@ section > .intro {
 }
 
 /* Artikelen / kaarten */
-section {
-  display: grid;
-  gap: 2em;
-  padding: 0 2em 3em;
-  width: 100%;
-  max-width: 1200px;
-  margin-top: 2em;
-}
-
 article {
   background-color: #ffffff;
   border-radius: 16px;
@@ -110,7 +111,6 @@ article:hover {
   height: 220px;
   object-fit: cover;
   display: block;
-  border-bottom: none;
 }
 
 /* Titel van elke kaart */
